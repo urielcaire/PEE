@@ -1,0 +1,23 @@
+A unidade de tempo para o java é NANOSSEGUNDOS
+A unidade de tempo para o pyhton é SEGUNDOS
+
+
+Para relaizar as converções de tempo necessárias, utilize:
+www.convertworld.com/pt/tempo/segundos.html
+
+Lembrando que o xubuntu continha 1gb de memrória ram e 25gb de HD.
+
+OBS: alguns resultados estão apresentando uma discrepância
+no tempo do primeiro loop, mas creio nao ser culpa dos algoritmos.
+Eu utilizei o ".clone" para que o vetor original não fosse alterado, pode ser algo do sistema.
+
+A pasta Algoritmos e Listas contém todos os algoritmos e listas de números utilizados.
+
+Caso esteja no windows, utilize o notepad++ para ver os resultados.
+
+
+Att. Uriel
+
+
+
+
